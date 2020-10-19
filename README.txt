@@ -4,6 +4,9 @@ This assignment uses Python 3 and ML Rose. Follow the instructions below to run 
 
 Note: Experiments take significant amount of time to run, mostly due to the MIMIC algorithm
 
+Get code from github
+https://github.com/srpatel625/cs7641-assignment2
+
 1. pip install -r requirements.txt 
 2. Run "python main.py -e fp" for Four Peaks problem
 3. Run "python main.py -e cp" for Continuous Peaks problem
